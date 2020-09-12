@@ -20,6 +20,3 @@ var isValid = function (s) {
 
    return (!heap.length);
 };
-
-const s = "()";
-console.log(isValid(s));
